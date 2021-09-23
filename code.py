@@ -1,1 +1,3 @@
 coding
+testing
+deploying
